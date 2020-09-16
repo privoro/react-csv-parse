@@ -23,7 +23,7 @@
     "url": "git://github.com:vtex/react-csv-parse.git"
   },
   "dependencies": {
-    "papaparse": "^4.5.0",
+    "papaparse": "^5.3.0",
     "ramda": "^0.25.0"
   },
   "peerDependencies": {
